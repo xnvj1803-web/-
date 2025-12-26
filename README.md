@@ -97,14 +97,23 @@
 第一组图展示了两种方法（凸方法与非凸方法）在多个迭代中的训练 RMSE，显示了学习曲线和最终表现：
 
 
-![High Dim Convergence](Figure1.png)
+![High Dim Convergence](figure1.png)
 
 
 ### 2. 不同交叉验证折上的方法表现
 第二组图展示了不同交叉验证折上的方法表现：
 
-![性能比较](https://raw.githubusercontent.com/username/repository/branch/images/703520c47b331a5ed467f6c30a6ef14.png)
+![High Dim Convergence](figure2.png)
 
+### 3. 凸方法的误差图
+第三组图展示了凸方法的误差分布直方图，箱线图,Q-Q图：
+
+![High Dim Convergence](figure3.png)
+
+### 4. 非凸方法的误差图
+第四组图展示了非凸方法的误差分布直方图，箱线图,Q-Q图：
+
+![High Dim Convergence](figure4.png)
 ---
 
 ## 安装与使用
