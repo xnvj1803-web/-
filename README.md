@@ -96,7 +96,9 @@
 ### 1. 迭代过程中的 RMSE 比较
 第一组图展示了两种方法（凸方法与非凸方法）在多个迭代中的训练 RMSE，显示了学习曲线和最终表现：
 
-![RMSE 比较](https://raw.githubusercontent.com/username/repository/branch/images/ce0a6cfeab9b90ef3a13fa60bcaaa05.png)
+
+![High Dim Convergence](Figure1.png)
+
 
 ### 2. 不同交叉验证折上的方法表现
 第二组图展示了不同交叉验证折上的方法表现：
